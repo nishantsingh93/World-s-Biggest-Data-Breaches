@@ -1,0 +1,70 @@
+Entity,Year,Records Lost,Organisation,Method of Leak,Data Sensitivity,Ticker_symbol
+AOL,2004,92000000,web,inside job,E-mail Address or Online Information,AOLS
+Automatic Data Processing,2005,125000,financial,poor security,SSN/Personal Details,ADP
+Citigroup,2005,3900000,financial,lost / stolen device,Credit Card Information,CIT-U.TI
+Hewlett Packard,2006,200000,"tech, retail",lost / stolen device,SSN/Personal Details,HPQ
+KDDI,2006,4000000,telecoms,hacked,E-mail Address or Online Information,KDDIY
+AOL,2006,20000000,web,accidentally published,E-mail Address or Online Information,AOLS
+Gap Inc,2007,800000,retail,lost / stolen device,SSN/Personal Details,GPS
+TD Ameritrade,2007,6300000,financial,hacked,E-mail Address or Online Information,AMTD
+Fidelity National Information Services,2007,8500000,financial,inside job,Credit Card Information,FIS
+Dai Nippon Printing,2007,8637405,retail,inside job,E-mail Address or Online Information,DNPLY
+AT&T,2008,113000,telecoms,lost / stolen device,E-mail Address or Online Information,AT
+Starbucks,2008,97000,retail,lost / stolen device,SSN/Personal Details,SBUX
+University of Miami,2008,2100000,academic,lost / stolen device,Credit Card Information,^UMIAMIFL
+Network Solutions,2009,573000,tech,hacked,Credit Card Information,LYNS
+Health Net ,2009,1500000,healthcare,lost / stolen device,E-mail Password or Health Records,IGRW
+Heartland,2009,130000000,financial,hacked,Credit Card Information,HTLD
+AT&T,2010,114000,telecoms,hacked,E-mail Address or Online Information,AT
+Betfair,2010,2300000,web,hacked,Credit Card Information,PPB.L
+JP Morgan Chase,2010,2600000,financial,lost / stolen device,Credit Card Information,JPM-PB
+Citigroup,2011,360083,financial,hacked,Credit Card Information,CIT-U.TI
+Stratfor,2011,935000,military,hacked,Credit Card Information,GB00B1Z54R10.L
+Sega,2011,1290755,gaming,hacked,SSN/Personal Details,MBSS.JK
+NHS,2011,8300000,healthcare,lost / stolen device,E-mail Password or Health Records,NHS
+Tianya,2011,28000000,web,hacked,E-mail Address or Online Information,603330.SS
+Steam,2011,35000000,web,hacked,Credit Card Information,200771.SZ
+Global Payments,2012,7000000,financial,hacked,Credit Card Information,GPN
+KT Corp.,2012,8700000,telecoms,hacked,SSN/Personal Details,KTC.DU
+Blizzard,2012,14000000,gaming,hacked,SSN/Personal Details,ATVI
+Court Ventures,2012,200000000,financial,inside job,SSN/Personal Details,KCT.V
+LinkedIn,2012,117000000,web,hacked,E-mail Address or Online Information,K55306BA2822.KS
+Citigroup,2013,150000,financial,accidentally published,SSN/Personal Details,CIT-U.TI
+TerraCom & YourTel,2013,170000,telecoms,accidentally published,SSN/Personal Details,TER.AX
+Nintendo,2013,240000,gaming,hacked,SSN/Personal Details,NTDOY
+Twitter,2013,250000,web,hacked ,E-mail Address or Online Information,TWTR
+Apple,2013,275000,tech,hacked,E-mail Address or Online Information,AAPL
+NMBS,2013,1460000,transport,accidentally published,SSN/Personal Details,NMBS.KL
+Vodafone,2013,2000000,telecoms,inside job,Credit Card Information,VOD
+Facebook,2013,6000000,web,accidentally published,E-mail Address or Online Information,FB
+Yahoo Japan,2013,22000000,"tech, web",hacked,E-mail Address or Online Information,YAHOY
+Adobe,2013,36000000,tech,hacked,Full Bank account Details,ADBE
+Yahoo,2013,1000000000,web,hacked,SSN/Personal Details,AABA
+NASDAQ,2014,500000,financial,hacked,E-mail Address or Online Information,NDAQ
+Japan Airlines,2014,750000,transport,hacked,SSN/Personal Details,JAPSY
+"D&B, Altegrity",2014,1000000,tech,hacked,Credit Card Information,D
+Staples,2014,1160000,retail,hacked,Credit Card Information,SPLS
+UPS,2014,4000000,retail,hacked,Credit Card Information,UPS
+Community Health Systems,2014,4500000,healthcare,hacked,SSN/Personal Details,CYH
+AOL,2014,2400000,web,hacked,E-mail Address or Online Information,AOLS
+Home Depot,2014,56000000,retail,hacked,Credit Card Information,HD
+Target,2014,70000000,retail,hacked,Credit Card Information,TGT
+JP Morgan Chase,2014,76000000,financial,hacked,Credit Card Information,JPM-PB
+Ebay,2014,145000000,web,hacked,E-mail Address or Online Information,EBAY
+Yahoo,2014,500000000,web,hacked,SSN/Personal Details,AABA
+IRS,2015,100000,government,hacked,E-mail Address or Online Information,IRS
+TalkTalk,2015,157000,web,hacked,SSN/Personal Details,TALK.L
+MSpy,2015,400000,tech,hacked,SSN/Personal Details,MSPYX
+CarPhone Warehouse,2015,2700000,web,hacked,Full Bank account Details,CPWFF8.EX
+Sanrio,2015,3300000,web,poor security,SSN/Personal Details,SNROF
+VTech,2015,6400000,web,hacked,Full Bank account Details,0303.HK
+Fling,2016,40000000,web,hacked,E-mail Password or Health Records,FLINGX
+Anthem ,2016,80000000,healthcare,hacked,SSN/Personal Details,ANTM
+VK,2016,100544934,web,hacked,E-mail Password or Health Records,VKTX
+Quest Diagnostics,2017,34000,healthcare,hacked,E-mail Password or Health Records,DGX
+Three,2017,200000,telecoms,hacked,SSN/Personal Details,0012.KL
+Bell,2017,1900000,telecoms,hacked,E-mail Address or Online Information,1880.HK
+Interpark,2017,10000000,web,hacked,SSN/Personal Details,108790.KQ
+Yahoo,2017,32000000,web,hacked,E-mail Password or Health Records,AABA
+CEX,2017,2000000,retail,accidentally published,Credit Card Information,^CEX
+Equifax,2017,143000000,financial,hacked,Full Bank account Details,EFX
