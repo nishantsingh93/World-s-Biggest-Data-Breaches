@@ -18,7 +18,7 @@ Any inputs is greatly appreciated!!
 
 1. Data: The data set I have is from an old project which I cleaned, filtered and added additional data to find stock prices of each Entity listed in the data set. 
 
-2. Top 4 most and top 4 least affected companies by the hack in the last 13 years by their average stock price.
+2. Qualifier: Top 4 most and top 4 least affected companies by the hack in the last 13 years by their average stock price.
 
 ### The  Colour Code for my visual is:
 
