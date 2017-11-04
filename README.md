@@ -8,8 +8,10 @@ Any inputs is greatly appreciated!!
 
 ******************************************************************************************************************************
 
-# Redesign of earlier Visualization: 
-## The financial markets do not punish security breaches
+# Lab 6: Redesign of earlier Visualization
+
+* Tableau Visual: 
+
 
 
 ## Claim: The financial markets do not punish security breaches.
