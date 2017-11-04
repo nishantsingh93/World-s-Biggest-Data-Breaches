@@ -18,6 +18,8 @@ Any inputs is greatly appreciated!!
 
 1. Data: The data set I have is from an old project which I cleaned, filtered and added additional data to find stock prices of each Entity listed in the data set. 
 
+2. Top 4 most and top 4 least affected companies by the hack in the last 13 years by their average stock price.
+
 ### The  Colour Code for my visual is:
 
 * Blue: Top 4 least affected companies by these security breaches ( Quest Diagnostics, Starbucks, AT&T and Automatic Data Processing)
@@ -29,14 +31,14 @@ Any inputs is greatly appreciated!!
 
 
 
-## Future Scope
+## Future Scope of Improvement:
 
-In the future following things can be done with the data set:
+### Given Enough time I would have liked to do the following things:
 
-* Gather Stack Prices by month and day to see a more clear effect 
-* Gather more data on specific details on which kind of users were affected by the hack as the wall Street reacts differently to different types of customers 
-* Do a more interactive visualization to get the message across 
-
+* Gather the exact information about the date of the hack so that we can better plot the effect of stock prices weekly/monthly/yearly vs the hack date. 
+* Gather more data on specific details on which kind of users were affected by the hack as the wall Street reacts differently to different types of customers. 
+* To select different a metric for comparison, as I selected average price over a period of time, but I think I had the time I would have compared how each or most affected companies did in the year they were hacked on monthly basis and over a period of time. 
+* To acquire more data on analyst reactions and investor reactions to understand better as to why these companies perform as they are doing now.
 ## References
 
 The following references were used for this redesign project:
