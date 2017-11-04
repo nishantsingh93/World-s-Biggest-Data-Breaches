@@ -8,7 +8,8 @@ Any inputs is greatly appreciated!!
 
 ******************************************************************************************************************************
 
-# Redesign of earlier Visualization:  
+# Redesign of earlier Visualization: 
+## The financial markets do not punish security breaches
 
 
 ## Claim: The financial markets do not punish security breaches.
