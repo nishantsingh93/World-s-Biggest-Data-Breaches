@@ -10,7 +10,7 @@ Any inputs is greatly appreciated!!
 
 # Lab 6: Redesign of earlier Visualization
 
-* Tableau Visual: 
+* Tableau Visual: https://public.tableau.com/views/Financialmarkets/Dashboard1?:embed=y&:display_count=yes&publish=yes
 
 
 
