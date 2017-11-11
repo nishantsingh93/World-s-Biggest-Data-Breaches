@@ -14,7 +14,8 @@
 
 * Critique previous visualization:
 
-![ScreenShot] (World-s-Biggest-Data-Breaches/Lab 8/Screen Shot 2017-11-10 at 8.51.58 PM.png)
+<img width="1440" alt="screen shot 2017-11-10 at 8 51 58 pm" src="https://user-images.githubusercontent.com/25557540/32686644-bfbee7fa-c65d-11e7-873e-91468c3cf2a5.png">
+
 
 
 * Develop future roadmap for improvement
