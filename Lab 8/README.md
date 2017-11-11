@@ -46,6 +46,7 @@
 ## Lab 8: 
 
 * Claim: SCU MSIS program is the best in the bay area...
+* Qualifier: The qualifier that I have choosen is the student to teacher ratio, ranking of the universities in the bay, top skills and how selective is the program.
 * Warrant: A survey of top schools in the bay clearly refelcts SCU MSIS program as the best there is in the silicon valley.
 * Backing: The data on which the visualization is done clearly shows that the MSIS program @ SCU is the best in the silicon valley. I have compared three universities in the bay area and SCU MSIS program is ranked the top amongst them. I have also doen a comparision of student to teacher ratio which clearly reflects that SCU focuse on personal relationships between the student and the professor and that is why they have less students per professor. It is one of the main reason why student at SCU do well compared to their counterparts from other Universities. The job comparision that I did shows the top skills linkedin recruiters expect out MSIS grads and the top skills SCU students have when they graduate and it clearly shows that they have all the  skills that a manager is looking for
 
