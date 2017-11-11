@@ -52,7 +52,7 @@ The following references were used for this redesign project:
 
 ******************************************************************************************************************************
 
-# Lab 8: Redesign of earlier Visualization
+# Lab 8: Redesign of earlier Visualization in lab 5
 
 * Tableau Visual: 
 
