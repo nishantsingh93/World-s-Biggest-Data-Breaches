@@ -2,11 +2,11 @@
 
 # Lab Session - 7
 
-## Objective: Create a redesign Visulazation of Lab 5.
+### Objective: Create a redesign Visulazation of Lab 5.
 
-## Date: 11th Nov 2017
+### Date: 11th Nov 2017
 
-## Tableau Visual link Link: 
+### Tableau Visual link Link: 
 
 ******************************************************************************************************************************
 
@@ -19,13 +19,18 @@
 * Implement the road map to create a visualization
 * Explain visualization 
 
+******************************************************************************************************************************
+
+
 ## Objective of lab 5 - Use the collected data to design a fact sheet on Santa Clara University’s MSIS program
+
 ## Brief Summary:
 
 * Developed 5 metrics on the MSIS program.
 * Evaluated and ranked the metrics for their suitability.
 * Choose top 3 metrics to  develop an intriguing visualizations.
 
+******************************************************************************************************************************
 
 
 ## Lab 8: 
@@ -35,6 +40,7 @@
 * Backing: The data is used from Yahoo Finance to get the stock prices. Link of Yahoo Finance: https://finance.yahoo.com/quote/ADBE/
 * Reservations: The stock price we have taken here is average stock price for the year. We don’t know what was the immediate impact on the stock right after the breach. Also, the claim is based on just the stock prices. May be the market value of the company might have decreased due to the breach. This makes it difficult to conclude the claim with the present data.
 
+******************************************************************************************************************************
 
 ## Road map with future enhancements:
 
@@ -42,7 +48,7 @@
 Improvement: Add more details in the caption regarding why the particular company is chosen.
 
 
-## Take aways from Lab-7 Session are:
+## Take aways from Lab-8 Session are:
 
 ### Perception:
 * Adding information like 'Total number of breaches' and 'Total number of records stolen' can give users a better perception of data. Adding the absolute value to the visual could be of great importance in certain scenarios, helping users in understanding the actaul background of the scenario. This data when combined with comprehensive data helps users in taking a better decision.
@@ -52,7 +58,14 @@ Improvement: Add more details in the caption regarding why the particular compa
 * This data is more about creating a "what-if analysis". This type of data represent a trend or a pattern in the data. Using this we try to project how the values could change according to the scenario. For instance in this particular visual, if we add a trend line showing the 'number of records stolen' vs 'the number of breaches/hacks' this would be an interesting trend to see. This will help users to estimate or project what could be the possible values in future. Although in this particular case we lack data to show any trend, so we are not including this section in the visual.
 The above mentioned three types combined with a claim made in a visual helps users in taking a better decision.
 
+******************************************************************************************************************************
+
 ## References 
+
+******************************************************************************************************************************
+
+******************************************************************************************************************************
+
 
 
 
