@@ -46,19 +46,21 @@
 ## Lab 8: 
 
 * Claim: SCU MSIS program is the best in the silicon valley!!
-* Warrant: 
-* Backing: 
+* Warrant: A survey of  recent SCU graduates  showed that 
+* Backing: The data on which the visualization is done clearly shows that the MSIS program @ SCU is the best in the silicon valley. I have compared three universities in the bay area and SCu MSIS program is ranked the top amongst them. 
 * Reservations: 
 
 ******************************************************************************************************************************
 
 ## Road map with future enhancements:
 
-1. 
-Improvement: 
+1. Get more data to analyze different universities in detail 
+2. Compare job profiles students attain when the graduate from these universities 
+3. Get data for hiring Manager showcasing  why they hire SCU students 
 
 
-## Take aways from Lab-8 Session are:
+
+
 
 ### Perception:
 * 
@@ -67,9 +69,6 @@ Improvement: 
 ### Projection
 * 
 
-******************************************************************************************************************************
-
-## References 
 
 ******************************************************************************************************************************
 
