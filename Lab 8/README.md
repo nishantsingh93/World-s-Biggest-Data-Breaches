@@ -12,7 +12,9 @@
 
 # Plan:
 
-* Critique previous visualization
+* Critique previous visualization:
+
+![ScreenShot] (World-s-Biggest-Data-Breaches/Lab 8/Screen Shot 2017-11-10 at 8.51.58 PM.png)
 
 
 * Develop future roadmap for improvement
