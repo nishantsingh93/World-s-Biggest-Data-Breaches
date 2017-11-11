@@ -12,15 +12,22 @@
 
 # Plan:
 
-* Critique previous visualization:
+## Critique previous visualization:
+
 
 <img width="1440" alt="screen shot 2017-11-10 at 8 51 58 pm" src="https://user-images.githubusercontent.com/25557540/32686644-bfbee7fa-c65d-11e7-873e-91468c3cf2a5.png">
 
+#### Pros:
 
+* Easy to understand the charts 
+* Simple and efficient especially the first chart 
+* can understand why should we choose MSIS at SCU
 
-* Develop future roadmap for improvement
-* Implement the road map to create a visualization
-* Explain visualization 
+#### Cons: 
+
+* Simple efficient and one clour charts needed 
+* Inference from the data, in a sense that what is the data actually telling us 
+
 
 ******************************************************************************************************************************
 
