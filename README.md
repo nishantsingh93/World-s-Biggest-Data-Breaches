@@ -8,7 +8,7 @@ Any inputs is greatly appreciated!!
 
 ******************************************************************************************************************************
 
-# Lab 6: Redesign of earlier Visualization
+# Lab 7: Redesign of earlier Visualization
 
 * Tableau Visual: https://public.tableau.com/views/Financialmarkets/Dashboard1?:embed=y&:display_count=yes&publish=yes
 
@@ -50,6 +50,45 @@ The following references were used for this redesign project:
 
 ******************************************************************************************************************************
 
+******************************************************************************************************************************
+
+# Lab 8: Redesign of earlier Visualization
+
+* Tableau Visual: 
+
+
+## Claim: The financial markets do not punish security breaches.
+
+1. Data: 
+
+2. Qualifier: 
+
+### The  Colour Code for my visual is:
+
+* Blue: Top 4 least affected companies by these security breaches ( Quest Diagnostics, Starbucks, AT&T and Automatic Data Processing)
+* Orange: Top 4 most affected companies by these security breaches (Yahoo, eBay, Equifax and Heartland)
+
+2. Warrant: 
+
+3. Backing: 
+
+
+## Future Scope of Improvement:
+
+### Given Enough time I would have liked to do the following things:
+
+* 
+* 
+*  
+* 
+
+## References
+
+The following references were used for this redesign project:
+
+* 
+* 
+* 
 
 
 
