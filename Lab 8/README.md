@@ -6,7 +6,7 @@
 
 ### Date: 11th Nov 2017
 
-### Tableau Visual link Link: 
+### Tableau Visual link Link: https://public.tableau.com/views/Book1_24947/Dashboard1?:embed=y&:display_count=yes&publish=yes
 
 ******************************************************************************************************************************
 
@@ -58,16 +58,17 @@
 2. Compare job profiles students attain when the graduate from these universities 
 3. Get data for hiring Manager showcasing  why they hire SCU students 
 
+******************************************************************************************************************************
+
+## References 
+
+* https://www.scu.edu/business/ms-information-systems/
+* https://www.quora.com/How-is-the-Management-Information-Systems-MIS-program-at-Leavey-School-of-Business-Santa-Clara
+* https://www.petersons.com/graduate-schools/santa-clara-university-leavey-school-of-business-program-in-information-systems-000_10023886.aspx
+* https://www.mba.com/us/find-and-compare-schools/program-detail.aspx?ID=0a7caa08-c17a-409a-99b5-df4165af8247
+* http://www.mastersportal.eu/studies/64690/information-systems.html
 
 
-
-
-### Perception:
-* 
-### Comprehension:
-* 
-### Projection
-* 
 
 
 ******************************************************************************************************************************
